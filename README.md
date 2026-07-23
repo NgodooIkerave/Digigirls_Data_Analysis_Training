@@ -9,7 +9,7 @@ The program included training in:
 - Basic Digital Literacy
 - Cybersecurity Awareness
 - Soft Skills
-- Data Analytics Training (8 weeks)
+- Data Analysis Training (8 weeks)
 
 ## Repository Contents
 
